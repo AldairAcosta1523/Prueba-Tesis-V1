@@ -1,6 +1,5 @@
 import Box from "@/components/components-encabezado-pagina/Dash";
 import Section1Preguntas from "@/components/components-preguntas/Section1Preguntas";
-import Section2Preguntas from "@/components/components-preguntas/Section2Preguntas";
 import Section3Preguntas from "@/components/components-preguntas/Section3Preguntas";
 
 
